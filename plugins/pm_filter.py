@@ -297,7 +297,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     f_caption = f"{files.file_name}"
                 buttons = [
                     [
-                        InlineKeyboardButton('More Bots', url='https://t.me/miuiicons_discussion'),
+                        InlineKeyboardButton('Support Group', url='https://t.me/miuiicons_discussion'),
                         InlineKeyboardButton('Channel', url='https://t.me/iconpacksmiui')
                     ]
                     ]
